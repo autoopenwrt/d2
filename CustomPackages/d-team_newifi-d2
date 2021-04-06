@@ -1,5 +1,4 @@
 git other openwrt-passwall https://github.com/xiaorouji main
-svn other luci-app-smartdns https://github.com/immortalwrt/luci/trunk/applications
 git other luci-app-poweroff https://github.com/esirplayground
 git other OpenClash https://github.com/vernesong master
 git other luci-app-argon-config https://github.com/jerrykuku
@@ -13,3 +12,5 @@ git other luci-app-bearDropper https://github.com/NateLol
 git other luci-app-onliner https://github.com/rufengsuixing
 git other xqxwjj-kp-no-Ad https://github.com/autoopenwrt
 git other OpenAppFilter https://github.com/destan19
+git other openwrt-smartdns https://github.com/autoopenwrt
+git other luci-app-smartdns https://github.com/autoopenwrt
