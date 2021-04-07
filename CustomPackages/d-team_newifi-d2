@@ -13,4 +13,3 @@ git other luci-app-onliner https://github.com/rufengsuixing
 git other luci-app-koolproxy https://github.com/autoopenwrt
 git other OpenAppFilter https://github.com/destan19
 git other luci-app-smartdns https://github.com/autoopenwrt
-git pass pass https://github.com/autoopenwrt
