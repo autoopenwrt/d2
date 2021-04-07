@@ -70,7 +70,7 @@ CONFIG_PACKAGE_mjpg-streamer-www-simple=y
 
 # 主题包
 # CONFIG_PACKAGE_luci-theme-argon is not set
-@ CONFIG_PACKAGE_luci-app-argon-config is not set
+# CONFIG_PACKAGE_luci-app-argon-config is not set
 
 # DDNS 相关
 CONFIG_PACKAGE_luci-app-ddns=y
